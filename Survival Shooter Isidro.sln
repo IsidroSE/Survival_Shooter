@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survival Shooter Isidro.CSharp.Plugins", "Survival Shooter Isidro.CSharp.Plugins.csproj", "{9F754345-6072-F63C-78E5-D8644DE17645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survival Shooter Isidro.CSharp", "Survival Shooter Isidro.CSharp.csproj", "{8B778EFE-21CE-9697-BC04-F8E0A0BAA9CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survival Shooter Isidro.CSharp.Editor", "Survival Shooter Isidro.CSharp.Editor.csproj", "{77D66BBB-52B0-8D09-5C5E-F521AA9FFEF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F754345-6072-F63C-78E5-D8644DE17645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F754345-6072-F63C-78E5-D8644DE17645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F754345-6072-F63C-78E5-D8644DE17645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F754345-6072-F63C-78E5-D8644DE17645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B778EFE-21CE-9697-BC04-F8E0A0BAA9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B778EFE-21CE-9697-BC04-F8E0A0BAA9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B778EFE-21CE-9697-BC04-F8E0A0BAA9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B778EFE-21CE-9697-BC04-F8E0A0BAA9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77D66BBB-52B0-8D09-5C5E-F521AA9FFEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77D66BBB-52B0-8D09-5C5E-F521AA9FFEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77D66BBB-52B0-8D09-5C5E-F521AA9FFEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77D66BBB-52B0-8D09-5C5E-F521AA9FFEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
